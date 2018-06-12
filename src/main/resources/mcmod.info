@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "voidchat",
+  "name": "VoidChat",
+  "description": "Expands chat history to 30,000 lines.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Skyerzz"],
+  "credits": "Cecer, for creating Big Chat History.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
